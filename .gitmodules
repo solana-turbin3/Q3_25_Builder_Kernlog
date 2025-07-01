@@ -1,0 +1,9 @@
+[submodule "turbin3-builders-cohort-ts-prereq-task"]
+	path = turbin3-builders-cohort-ts-prereq-task
+	url = git@github.com:Kernlog/turbin3-builders-cohort-ts-prereq-task.git
+[submodule "turbin3-builders-cohort-rs-prereq-task"]
+	path = turbin3-builders-cohort-rs-prereq-task
+	url = git@github.com:Kernlog/turbin3-builders-cohort-rs-prereq-task.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:Kernlog/solana-starter.git
