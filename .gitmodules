@@ -7,3 +7,12 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = git@github.com:Kernlog/solana-starter.git
+[submodule "turbin3-vault"]
+	path = turbin3-vault
+	url = git@github.com:Kernlog/turbin3-vault.git
+[submodule "turbin3-escrow"]
+	path = turbin3-escrow
+	url = git@github.com:Kernlog/turbin3-escrow.git
+[submodule "turbin3-amm"]
+	path = turbin3-amm
+	url = git@github.com:Kernlog/turbin3-amm.git
